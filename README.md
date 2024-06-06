@@ -1,4 +1,4 @@
 # Learning_React
 React app making learning
 <br>
-author-aayushi singh
+author-aayushi singh(student)
